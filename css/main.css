@@ -223,7 +223,7 @@ transition: 1.5s;
 }   
 
 .container_logo_mail:hover, .container_logo_git:hover,.container_logo_ld:hover {
-    background-image: linear-gradient(rgba(151, 134, 155, 0.145), rgba(115, 115, 228, 0.663)),url('./images/53.jpg');
+    background-image: linear-gradient(rgba(151, 134, 155, 0.145), rgba(115, 115, 228, 0.663)),url('../images/53.jpg');
     transition: 1.3s;    
 }
 
