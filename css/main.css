@@ -202,6 +202,7 @@ transition: 1.5s;
 
 
 
+
 /*-----------------end works---------- */
 
 /*----------------- contact---------- */
@@ -339,12 +340,19 @@ padding:0.8%
 
   @media (min-width: 1250px) {
     .navbar {
-        position:sticky !important; 
+        /* position:sticky !important; 
         top:0 px !important;
         padding-top:1%;
-        width: 96.5vw !important;
-   
-    }
+        width: 96.5vw !important; */
+        position:sticky !important;
+        top:-1 px !important;
+        padding-top: 45px;
+  width: 100vw !important;
+        
+   }
   } 
 
- 
+  .navbar>.container-fluid{
+    height: 1vh !important;
+    margin-bottom: 30px !important;
+  }
