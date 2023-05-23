@@ -107,7 +107,7 @@ transition: 1.5s;
 .container_img_about{
     display: flex;
     justify-content: center;
-    margin-left: 10%;
+
 }
 
 .container_p_about{
@@ -122,7 +122,6 @@ transition: 1.5s;
     justify-content: center;
     padding-bottom: 2%;
     padding-top: 2%;
-    margin-left: 10%;
 }
 
 .title_works{
@@ -130,14 +129,14 @@ transition: 1.5s;
     justify-content: center;
 
     padding-top: 5%;
-    margin-left: 10%;
+
     margin-top: 10px !important;
 }
 
 .container_title-tech{
     display: flex;
     justify-content: center;
-    margin-left: 10%;
+
  
 }
 
@@ -442,7 +441,7 @@ transition: 1.5s;
 .container_contact{
     height:75vh;
     /* width: 100%important; */
-    margin-left: 10%;
+
 
 
 }
@@ -490,7 +489,7 @@ padding:0.8%
     padding-bottom: 10%;
     display: flex;
     justify-content: center;
-    margin-left: 2%;
+
 }
 
 
