@@ -209,8 +209,8 @@ transition: 1.5s;
 }
 
 .logo-works-sass{
-    width: 20%;
-    margin-left:6px;
+    width: 18%;
+    margin-left:10px;
 }
 
 .card{
@@ -398,6 +398,7 @@ transition: 1.5s;
     margin-top: 7%;
         margin-left: 2.5px;
 }
+
 
 
 .modal {
